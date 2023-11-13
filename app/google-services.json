@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "342925331691",
+    "project_id": "app22-5f3f8",
+    "storage_bucket": "app22-5f3f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342925331691:android:611755ab40fd3fea37c2ae",
+        "android_client_info": {
+          "package_name": "com.vulcan.app221_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCspPSEqq2WGLchCmuCrONyenQEu0O-umE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
